@@ -1,0 +1,153 @@
+.header{
+    background-color: #4267b2;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    width: 100%;
+}
+.logo{
+    width: 50%;
+    padding-top: 30px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 4px;
+}
+.logo-text{
+    color: #F5F6F7;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 150px;
+    margin-top: 30px;
+    font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.login-label{
+    color: #fff;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.login-controls{
+    margin-left: 102px;
+}
+.forgotten{
+    font-size: 12px;
+    color: #9cb4d8;
+    text-decoration: none;
+}
+.sub-btn{
+    background-color: #4267b2;
+    color: #fff;
+    font-size: 11px;
+    font-weight: bold;
+    height: 24px;
+    border-color: #4267b2;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background-color:#6386cc ;
+}
+
+.left-section{
+    width: 45%;
+    float: left;
+    padding-left: 100px;
+    padding-top: 20px ;
+}
+.right-section{
+    width: 45%;
+    float: left;
+    padding-left:40px ;
+}
+
+.para{
+    color: hsl(220, 46%, 48%);
+    font-weight: bold;
+    font-size: 25px;
+    font-family: monospace;
+}
+.image1{
+    width: 320px;   
+}
+.heading{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subpara{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.firstname{
+    width: 200px;
+    height: 30px;
+    border-radius:7px;
+    border-width: 1px;
+}
+.lastname{
+    width: 200px;
+    height: 30px;
+    border-radius: 7px;
+    border-width: 1px;
+}
+.email{
+    width: 409px;
+    height: 30px;
+    margin-top: 6px;
+    border-radius: 7px;
+    border-width: 1px;
+}
+.re-enter{
+    width:409px;
+    height: 30px;
+    margin-top: 6px;
+    border-radius: 7px;
+    border-width: 1px;
+}
+.pass{
+    width:409px;
+    height: 30px;
+    margin-top: 6px;
+    border-radius: 7px;
+    border-width: 1px;
+}
+.dob{
+    width: 200px;
+    height: 30px;
+    margin-top: 6px;
+    border-radius: 7px;
+    border-width: 1px;
+}
+.gender{
+    font-size: 18px;
+    color: #4267b2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.finally{
+    background-color:rgb(53, 134, 53) ;
+    color: #fff;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 7px;
+    width: 230px;
+    height: 37px;
+    cursor: pointer;
+}
+.last-para{
+    font-size: 11px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.extra{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.extra2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: gray;
+}
